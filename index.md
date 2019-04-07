@@ -1,6 +1,6 @@
 ---
 title: Home page
-layout: page
+layout: default
 ---
 
 Here is my page.
